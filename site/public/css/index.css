@@ -1,3 +1,5 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
 .navbar-brand>img{
 	display:inline;
 	margin-right:5px;
@@ -5,4 +7,9 @@
 
 .mybrand{
 	padding-top: 10px;
+}
+
+.landing-glyph{
+	font-size: 2em;
+	color: #f05f40;
 }
